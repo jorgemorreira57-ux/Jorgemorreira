@@ -1,0 +1,11 @@
+body{
+  color: white;
+  background-color: black;
+  font-family: Times New Roman;
+}
+ul {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  padding: 17px;
+}
